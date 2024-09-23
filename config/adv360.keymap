@@ -80,11 +80,11 @@
 
         layer_Layer__4 {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &kp N1          &kp N2           &kp N3    &kp N4     &kp N5  &kp EQUAL
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans   &kp Q           &kp W            &kp E     &kp R      &kp T    &kp TAB
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans   &kp A           &kp S            &kp D     &kp F      &kp G    &kp ESC
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                   &kp Z           &kp X            &kp C     &kp V      &kp B     &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &kp LEFT_ARROW  &kp RIGHT_ARROW  &kp CAPS  &kp GRAVE     &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                         &trans  &kp N1          &kp N2           &kp N3    &kp N4     &kp N5  &kp EQUAL
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                         &trans   &kp Q           &kp W            &kp E     &kp R      &kp T    &kp TAB
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans         &trans   &kp A           &kp S            &kp D     &kp F      &kp G    &kp ESC
+ &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                          &kp Z           &kp X            &kp C     &kp V      &kp B     &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &kp BACKSPACE          &kp LEFT_ARROW  &kp RIGHT_ARROW  &kp CAPS  &kp GRAVE     &trans
             >;
         };
 
